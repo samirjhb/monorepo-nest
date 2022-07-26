@@ -35,9 +35,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
-
-
 ## Stay in touch
 
 - Author - Samir Hadechni
